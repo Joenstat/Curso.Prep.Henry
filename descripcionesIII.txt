@@ -1,0 +1,6 @@
+Arrays : los arrays son arreglos o listas, donde se puede almacenar todo tipo de datos. Las variables son como un lugar donde puedes guardar muchas cosas pero solo 
+comprendidas como una sola cosa, las listas en cambio son como un lugar donde puedes guardas varios tipos de cosas y que se pueden considerar como cosas
+separadas. Por ejemplo una variable es como un casillero donde puedes guardar algo, y una lista es un lugar con muchos casilleros donde puedes guardar muchas cosas.
+La diferencia o una de ellas, es que en el casillero, lo abres y sacas lo que quieres. En cambio en las listas, debes llegar hasta los casilleros y acordarte cual era el 
+tuyo, la posicion ejplo: casilla 001-Juan. y a esas casillas las llamamos INDEX o posicion de los elementos. Y asi es como podemos acceder a las cosas que guardamos 
+dentro de las litas... a traves de indices.

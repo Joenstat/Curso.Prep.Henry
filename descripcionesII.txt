@@ -1,0 +1,10 @@
+FOR : el FOR es un bucle, donde podemos crear un codigo que se va a repetir tantas veces el condicionamiento que le impongamos se lo permita. El for tiene tres partes,
+ 1 la variabler sobre la cual se va a hacer un recorrido, 2 hasta donde y 3 que hacemos con la variable para que se cumpla el rompimiento del buckle.
+&& : AND es un operador de comparacion, que compara dos operandos, llamemosle A y B, los operadores de comparacion solo devuelven booleanos, osea TRUE o FALSE, 
+AND es TRUE siempre y cuando los 2 operandos A y B sean verdaderos, ejemplo : Si 3 > 2 && 4 > 3 esto devolvera TRUE 
+|| : OR es otro operador de comparacion, que hace lo mismo que AND pero practicamente a la inversa, porque en OR los operandos no necesariamente deben ser los verdaderos,
+ solo es necesario que se cumpla una condicion, ejemplo : Si 2 > 1 || 1 > 3 ... esto dara TRUE, y hay una aclaracion con respecto a || y es que en || si el primer operando
+ da TRUE ya no se evalua el segundo operando.
+! : NOT tambien se usa para comparar solo que esta niega todo lo que se declare delante de ella, ejemplo: 2 === 2 es TRUE pero 2 !== 2 es falso, var c = 'hola' 
+var d = 'hola' entonces c === d es true pero c !== d es false.
+

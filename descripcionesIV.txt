@@ -1,0 +1,10 @@
+* Objetos : son estructuras donde se pueden guardar varios elementos de una misma correspondencia. Por ejemplo un objeto es una pieza correspondiente a Victor, y ese objeto
+tiene cosas de Victor. 
+* Propiedades : las propiedades son las cosas de Victor que estan guardadas en el Objero "pieza".
+* Métodos : los metodos son funciones que se guardan en el objeto a fin de ser invocadas en algun momento, como por ejemplo un console.log('Hola Victor')
+* Bucle `for…in` : un bucle for ... in es basicamente una busqueda dentro de la pieza pasando elemento por elemento de cada parte seleccionada. Por ejemplo, vamos a hacer
+un for ... in : mesita de luz, entonces recorremos (revisamos) todo el estante hasta cumplir una condicion como por ejlo . : "encontrar una llave" y al encontrar la llave
+dejamos de buscar, o sea salimos del buckle... 
+* Notación de puntos vs notación de corchetes : la notacion es una forma de solicitar algo ... la manera mas facil de entenderla es pensando en la iteracion o buscqueda
+que hicimos en el for... in... una notacion por puntos seria "busca la llave en la mesita de luz" y la notacion de corchetes seria .. "busca la llave en la mesita de luz
+en el 3er cajon de abajo"...
