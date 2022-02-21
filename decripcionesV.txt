@@ -1,0 +1,6 @@
+`prototype` : un prototipo vendria a ser como algo que te enseñaron como hacer, son metodos que tiene una clase o un objeto para hacer algo en determinadas situaciones,
+como por ejemplo: a un niño se le pide que porfavor vaya al quiosco a comprar algo, y el niño tiene un prototipo incorporado, ya sabe donde ir y que hacer segun le hayan
+solicitado.
+_Constructors_ de clases : un constructor de clases es un objeto que crea objetos, es como una fabrica, porque ya tiene predefinidos varias cosas dentro de si misma,
+cosa que al crear algo ya le incorpora muchas cosas. Ejemplo: en una fabrica de dulces, hay un Constructor de Alfajores, que dice : miren este alfajor haganlo asi, 
+ponganle este paquete, haganlo de este color.
