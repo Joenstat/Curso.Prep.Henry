@@ -1,0 +1,5 @@
+Funciones Callback : las funciones callbacks son como cosas que sabes hacer, que las haces cuando te piden 
+hacer algo. Por ejemplo, te dan dinero para ir a comprar y te dan una lista, cuando vas a comprar hay cosas que sabes
+que tenes que hacer, como llevar barbijo o llevar una bolsa para traer las cosas. 
+Un callback es como si ejecutaras algo dentro de algo que te han pedido, obviamente el ser humano lo hace por si solo, pero en programacion,
+los callbacks son : llamados a funciones, dentro de otra funcion. 
