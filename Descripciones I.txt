@@ -1,5 +1,0 @@
-* Variables : espacios en memoria donde podemos almacenar informacion del tipo que sea para luego poder utilizarlas.
-* Strings : son cadenas, pueden ser textos(por lo general) pero tambien pueden ser numeros y los encerramos entre comillas dobles o simples.
-* Funciones (argumentos, `return`) : las funciones son porciones de codigo que podemos crear y luego llamarlas para automatizar ciertas acciones y no volver a escribir de nuevo unas lineas de codigo sino que en cambio solo le pasamos argumentos.
-* Declaraciones `if` : las declaraciones if son condicionales que metemos dentro de un codigo para indicarle al interprete como actuar antes posibles resultados.
-* Valores booleanos (`true`, `false`) : los booleanos son valores unicos que nos dicen si algo es verdadero o falso. Podemos decirle al interprete panteraRosa es igual a true ... con eso le decimos que cualquier cosa que se compare con pantera que no sea rosa sera false.
