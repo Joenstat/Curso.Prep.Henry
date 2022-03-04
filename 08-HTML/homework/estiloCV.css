@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, sans-serif;
+}
+.global {
+    margin: 5px;
+    border: 1px solid #bbb;
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.nombre {
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+}
+
+.personal {
+    padding: 10px;
+    margin: 10px;
+}
+
+.educacion {
+    padding: 10px;
+    margin: 10px;
+}
+
+.exlaboral {
+    padding: 10px;
+    margin: 10px;
+}
+
+.skills {
+    padding: 10px;
+    margin: 10px;
+}
+
+.hooby {
+    padding: 10px;
+    margin: 10px;
+}
+
+.espec {
+    padding: 10px;
+    margin: 10px;
+}
+
